@@ -21,8 +21,8 @@
   "homepage": "https://github.com/linsolas/devoxx-france-2017#readme",
   "devDependencies": {
     "font-awesome": "^4.7.0",
-    "live-server": "^1.2.0",
-    "reveal.js": "^3.4.1",
+    "live-server": "^1.2.1",
+    "reveal.js": "^3.7.0",
     "webcomponents.js": "^0.7.24"
   }
 }

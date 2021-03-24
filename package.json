@@ -1,7 +1,7 @@
 {
-  "name": "devoxx-france-2017",
+  "name": "qima-2021",
   "version": "1.0.0",
-  "description": "Devoxx France 2017 presentations",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "live-server"
